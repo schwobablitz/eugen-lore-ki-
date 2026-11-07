@@ -13,3 +13,7 @@ Hier finden Leserinnen und Leser:
 Die Informationen werden bei Bedarf überprüft und ergänzt. Eine regelmäßige Aktualisierung wird nicht garantiert.
 
 **Unser Grundsatz:** KI nicht ohne Hirn, Herz und schwäbische Skepsis.
+
+## Pflege und Aktualisierungen
+
+Neue Quellenhinweise und Prüfstände stehen in [Ergänzungen](ergaenzungen.html). Der einfache redaktionelle Ablauf ist in [PFLEGEANLEITUNG.md](PFLEGEANLEITUNG.md) festgehalten. Die Buchausgaben werden durch Änderungen an der Website nicht automatisch aktualisiert.
